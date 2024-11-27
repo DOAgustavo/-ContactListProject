@@ -16,7 +16,6 @@ Este é um projeto básico de uma lista de contatos com design interativo e mode
 ## Prévia
 
 ![Captura de Tela](img/screenshot.jpeg)  
-*Exemplo da interface (substitua pelo caminho correto da sua imagem).*
 
 ---
 
